@@ -4,6 +4,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="wwwroot\css\index.css.map" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="clean" Version="4.0.0" />
